@@ -4,10 +4,10 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class FinalExamManjotSinghApplication {
+public class UserManagerApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(FinalExamManjotSinghApplication.class, args);
+		SpringApplication.run(UserManagerApplication.class, args);
 	}
 
 }

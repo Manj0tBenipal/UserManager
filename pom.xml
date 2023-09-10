@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>ca.sheridancollege.sin13014.finalexam_Manjot_singh</groupId>
-	<artifactId>FinalExam_Manjot_Singh</artifactId>
+	<artifactId>UserManager</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>FinalExam_Manjot_Singh</name>
 	<description>Demo project for Spring Boot</description>
